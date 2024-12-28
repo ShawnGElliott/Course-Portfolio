@@ -1,0 +1,9 @@
+This assignment was both fun and a little tricky for me. Honestly, when I first looked at it, I thought, “Oh, this is going to be simple,” but then I realized that programming has all these little details that you can’t skip over. I guess that’s part of why people say coding teaches you patience.
+
+One of the challenges I had was remembering to use the right syntax for things. For example, when we had to join the first and last name variables, I forgot to add a space between them at first. So my output looked like "FirstLast" instead of "First Last." I had to stop and think about how strings work and what I needed to add to fix it. It’s a small thing, but it showed me how paying attention to details can make a big difference.
+
+Another challenge was with the part where we had to figure out what happens when you add 10 to a string. At first, I thought Python would automatically figure it out, but nope—it threw an error. I had to Google why that happens, and I learned that strings and integers are completely different data types. It kind of clicked for me then why you need to convert the number to a string if you want them to work together. That was a cool insight because it made me realize how important data types are in coding—like, they’re not just random labels, they actually control how the code behaves.
+
+The part I enjoyed most was the user input section. It was fun to write code that interacts with whoever is using it. When I typed in my response and saw it print back to me, it felt like the computer was listening to me. I know it’s basic, but it made me excited that I felt I was doing something right.  
+Overall, this assignment was a mix of learning and experimenting. I’m still getting the hang of coding and thinking through problems logically, but I feel like I’m starting to understand how programming is more about solving puzzles and memorizing rules.
+
